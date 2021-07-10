@@ -1,0 +1,7 @@
+Hello World, this is a sample file.
+This is a duplicate line!
+We've another new line.
+and few more lines of text here.
+This is a duplicate line!
+This is a duplicate line!
+We've another new line.

@@ -1,10 +1,10 @@
 /*
 FindDup finds duplicate lines from in the input from stdin
-To run: 
+To run:
  `$ go run 3.FindDup.go`
  Enter multiple lines in input
 Expected output: '<duplicate line> <count>'
-*/ 
+*/
 
 package main
 

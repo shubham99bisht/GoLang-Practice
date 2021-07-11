@@ -2,14 +2,14 @@
 FindDupiInFile finds duplicate lines in a file which is provided as cmd line argument
 To run: `$ go run 3.FindDupInFile.go filePath`
 Expected output: '<duplicate line> <count>'
-*/ 
+*/
 
 package main
 
 import (
+	"bufio"
 	"fmt"
 	"os"
-	"bufio"
 )
 
 func main() {

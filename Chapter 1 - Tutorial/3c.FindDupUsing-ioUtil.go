@@ -1,5 +1,5 @@
 /*
-This file reads a file entirely into memory and 
+This file reads a file entirely into memory and
 then processes it line by line to find duplicates
 To run: `$ go run 3.FindDupInFile.go filePath`
 Expected output: '<count> <duplicate line>'
